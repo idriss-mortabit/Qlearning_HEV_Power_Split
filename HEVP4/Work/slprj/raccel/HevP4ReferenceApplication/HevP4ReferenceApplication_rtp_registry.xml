@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/slsa_mm_rtp_registry/R2023a">
+  <slsa.mm.rtpregistry.ModelMetadata type="slsa.mm.rtpregistry.ModelMetadata" uuid="ad725d52-d72c-43d6-be67-f0c4b177e571">
+    <modelName>HevP4ReferenceApplication</modelName>
+  </slsa.mm.rtpregistry.ModelMetadata>
+  <slsa.mm.rtpregistry.RtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="2d173c7e-5036-42c6-afe7-e9cccfe88291">
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="53ce2368-2c88-40ee-8c82-ee2501cb04b9"/>
+    <valueIndices>420</valueIndices>
+    <valueIndices>820</valueIndices>
+  </slsa.mm.rtpregistry.RtpLocation>
+  <slsa.mm.rtpregistry.Parameter type="slsa.mm.rtpregistry.Parameter" uuid="ff8d0e0b-8948-4005-8838-f04e498d5c54">
+    <id type="slsa.mm.rtpregistry.BlockParameterId" uuid="a43c5298-3e7a-43ee-93bd-5eccb15c516a"/>
+    <rtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="23a010b2-becd-456a-a18a-330d09cff85f"/>
+  </slsa.mm.rtpregistry.Parameter>
+  <slsa.mm.rtpregistry.BlockParameterId type="slsa.mm.rtpregistry.BlockParameterId" uuid="a43c5298-3e7a-43ee-93bd-5eccb15c516a">
+    <blockPath>HevP4ReferenceApplication/Drive Cycle Source/Timing Mode/Continuous/1-D Lookup Table</blockPath>
+    <name>Table</name>
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="ff8d0e0b-8948-4005-8838-f04e498d5c54"/>
+  </slsa.mm.rtpregistry.BlockParameterId>
+  <slsa.mm.rtpregistry.Parameter type="slsa.mm.rtpregistry.Parameter" uuid="53ce2368-2c88-40ee-8c82-ee2501cb04b9">
+    <id type="slsa.mm.rtpregistry.BlockParameterId" uuid="387368c1-4b1e-47e5-8cc1-528e3bd8c3b9"/>
+    <rtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="2d173c7e-5036-42c6-afe7-e9cccfe88291"/>
+  </slsa.mm.rtpregistry.Parameter>
+  <slsa.mm.rtpregistry.RtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="23a010b2-becd-456a-a18a-330d09cff85f">
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="ff8d0e0b-8948-4005-8838-f04e498d5c54"/>
+    <valueIndices>19</valueIndices>
+    <valueIndices>419</valueIndices>
+  </slsa.mm.rtpregistry.RtpLocation>
+  <slsa.mm.rtpregistry.BlockParameterId type="slsa.mm.rtpregistry.BlockParameterId" uuid="387368c1-4b1e-47e5-8cc1-528e3bd8c3b9">
+    <blockPath>HevP4ReferenceApplication/Drive Cycle Source/Timing Mode/Continuous/1-D Lookup Table</blockPath>
+    <name>BreakpointsForDimension1</name>
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="53ce2368-2c88-40ee-8c82-ee2501cb04b9"/>
+  </slsa.mm.rtpregistry.BlockParameterId>
+  <slsa.mm.rtpregistry.Parameter type="slsa.mm.rtpregistry.Parameter" uuid="b262d0fa-f49f-4248-969c-df8b6e90e1af">
+    <id type="slsa.mm.rtpregistry.BlockParameterId" uuid="f93d585a-72ff-46f8-9623-d3f419515418"/>
+    <rtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="0c768ba2-7f21-408a-aa74-e678c78d91ac"/>
+  </slsa.mm.rtpregistry.Parameter>
+  <slsa.mm.rtpregistry.BlockParameterId type="slsa.mm.rtpregistry.BlockParameterId" uuid="f93d585a-72ff-46f8-9623-d3f419515418">
+    <blockPath>HevP4ReferenceApplication/Drive Cycle Source/Timing Mode/Continuous/Hit  Crossing</blockPath>
+    <name>HitCrossingOffset</name>
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="b262d0fa-f49f-4248-969c-df8b6e90e1af"/>
+  </slsa.mm.rtpregistry.BlockParameterId>
+  <slsa.mm.rtpregistry.RtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="0c768ba2-7f21-408a-aa74-e678c78d91ac">
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="b262d0fa-f49f-4248-969c-df8b6e90e1af"/>
+    <valueIndices>877</valueIndices>
+    <valueIndices>877</valueIndices>
+  </slsa.mm.rtpregistry.RtpLocation>
+  <slsa.mm.rtpregistry.Parameter type="slsa.mm.rtpregistry.Parameter" uuid="a6268d52-4754-4636-a805-282121cbee1a">
+    <id type="slsa.mm.rtpregistry.BlockParameterId" uuid="33b44299-3319-4a95-843c-48e992edb4cd"/>
+    <rtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="db375f4a-4844-4747-b77f-9c92833fdd8c"/>
+  </slsa.mm.rtpregistry.Parameter>
+  <slsa.mm.rtpregistry.BlockParameterId type="slsa.mm.rtpregistry.BlockParameterId" uuid="33b44299-3319-4a95-843c-48e992edb4cd">
+    <blockPath>HevP4ReferenceApplication/Drive Cycle Source/Timing Mode/Continuous/repeat</blockPath>
+    <name>Value</name>
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="a6268d52-4754-4636-a805-282121cbee1a"/>
+  </slsa.mm.rtpregistry.BlockParameterId>
+  <slsa.mm.rtpregistry.RtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="db375f4a-4844-4747-b77f-9c92833fdd8c">
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="a6268d52-4754-4636-a805-282121cbee1a"/>
+    <valueIndices>916</valueIndices>
+    <valueIndices>916</valueIndices>
+  </slsa.mm.rtpregistry.RtpLocation>
+  <slsa.mm.rtpregistry.Parameter type="slsa.mm.rtpregistry.Parameter" uuid="efd7e1d2-e0d3-4e83-8a06-2cf1b48ca343">
+    <id type="slsa.mm.rtpregistry.BlockParameterId" uuid="54f6a1f0-c0b2-41e8-a2e5-4a75314b88b2"/>
+    <rtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="1ec83362-2770-4c7f-948f-eae9873c2d02"/>
+  </slsa.mm.rtpregistry.Parameter>
+  <slsa.mm.rtpregistry.BlockParameterId type="slsa.mm.rtpregistry.BlockParameterId" uuid="54f6a1f0-c0b2-41e8-a2e5-4a75314b88b2">
+    <blockPath>HevP4ReferenceApplication/Drive Cycle Source/Timing Mode/Continuous/tFinal</blockPath>
+    <name>Value</name>
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="efd7e1d2-e0d3-4e83-8a06-2cf1b48ca343"/>
+  </slsa.mm.rtpregistry.BlockParameterId>
+  <slsa.mm.rtpregistry.RtpLocation type="slsa.mm.rtpregistry.RtpLocation" uuid="1ec83362-2770-4c7f-948f-eae9873c2d02">
+    <parameter type="slsa.mm.rtpregistry.Parameter" uuid="efd7e1d2-e0d3-4e83-8a06-2cf1b48ca343"/>
+    <valueIndices>917</valueIndices>
+    <valueIndices>917</valueIndices>
+  </slsa.mm.rtpregistry.RtpLocation>
+</MF0>

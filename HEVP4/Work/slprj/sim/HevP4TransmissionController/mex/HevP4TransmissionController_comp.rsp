@@ -1,0 +1,8 @@
+﻿-ID:\HEVP41\HEVP4\Work
+-ID:\HEVP41\HEVP4\Work\slprj\sim\HevP4TransmissionController
+-I"C:\Program Files\MATLAB\R2023b\extern\include"
+-I"C:\Program Files\MATLAB\R2023b\simulink\include"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\ert"
+-ID:\HEVP41\HEVP4\Work\slprj\sim\_sharedutils

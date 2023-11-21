@@ -1,0 +1,19 @@
+﻿-ID:\HEVP41\HEVP4\Work\slprj\sim\SiMappedEngine
+-ID:\HEVP41\HEVP4\Work\slprj\sim\SiEngineController
+-ID:\HEVP41\HEVP4\Work\slprj\sim\MotMappedP4
+-ID:\HEVP41\HEVP4\Work\slprj\sim\HevP4TransmissionController
+-ID:\HEVP41\HEVP4\Work\slprj\sim\HevP4OptimalController
+-ID:\HEVP41\HEVP4\Work\slprj\sim\DrivetrainHevP4
+-ID:\HEVP41\HEVP4\Work\slprj\sim\BattHevP4
+-ID:\HEVP41\HEVP4\Work
+-ID:\HEVP41\HEVP4\Work\slprj\raccel\HevP4ReferenceApplication
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src\rapid"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\raccel"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2023b\toolbox\coder\rtiostream\src"
+-I"C:\Program Files\MATLAB\R2023b\extern\include"
+-I"C:\Program Files\MATLAB\R2023b\simulink\include"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023b\toolbox\coder\rtiostream\src\rtiostreamtcpip"
+-I"C:\Program Files\MATLAB\R2023b\toolbox\coder\rtiostream\src\utils"
+-ID:\HEVP41\HEVP4\Work\slprj\sim\_sharedutils
